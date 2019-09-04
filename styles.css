@@ -1,6 +1,8 @@
 iframe {
 	position: absolute;
 	left: 350px;
+	width: 727; 
+	height: 409; 
 }
 
 body {
