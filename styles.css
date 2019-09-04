@@ -1,0 +1,46 @@
+iframe {
+	position: absolute;
+	left: 350px;
+}
+
+body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZJv_9YdAcDM7IAyzXHxdLt_BA-p5uWelDLX7LaFiDjimk93m);
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+ #s1 {
+ 	color: green;
+ 	width: 300px;
+ 	height: 400px;
+ 	font-size:70px;
+ }
+ #s2 {
+ 	color: yellow;
+ 	position: absolute;
+ 	top: 200px;
+ 	width: 300px;
+ 	height: 400px;
+ 	font-size:70px;
+ }
+
+ #s3 {
+ 	color: purple;
+ 	position: absolute;
+ 	top: 280px;
+
+ 	width: 300px;
+ 	height: 400px;
+ 	font-size:70px;
+ }
+
+ h1 {
+ 	font-size: 48px;
+ }
+ a {
+ 	position: absolute;
+ 	top: 500px;
+ 	left:20px;
+ 	font-size: 40px;
+ }
